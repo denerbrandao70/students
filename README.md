@@ -6,7 +6,7 @@ Professor: João Eduardo Montandon
 ## Mural dos Alunos
 
 O mural dos alunos é uma página que exibe as informações do GitHub de todos que já passaram pela disciplina ao longo da história do curso.
-Você pode acessar essas informações diretamente a partir da página da disciplina, neste [link](https://coltec-daw.github.io/students/).
+Você pode acessar essas informações diretamente a partir da página da disciplina, neste [link](https://coltec-ps.github.io/students/).
 
 Nesta prática, você irá exercitar seus conhecimentos a respeito do Git & GitHub para incluir suas informações no mural da sua turma.
 
