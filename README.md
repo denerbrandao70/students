@@ -1,6 +1,6 @@
 # Exercício 00: Mural dos Estudantes 
 
-Professor: João Eduardo Montandon
+Professores: Dener Brandão e João Eduardo Montandon
 
 **Objetivo:** Nesta lista, você irá praticar seus conhecimentos de Git & GitHub para adicionar suas informações no mural dos alunos do curso.
 ## Mural dos Alunos
@@ -33,24 +33,24 @@ Essa pasta é responsável por armazenar os dos integrantes do mural.
 Repare também que esta pasta contém vários subdiretórios, um para cada ano em que a disciplina foi dada.
 As informações presentes nesse diretório serão processadas pelo Jekyll e então carregadas no arquivo `index.html`.
 
-### O arquivo `jemaf.json`
+### O arquivo `denerbrandao70.json`
 
-Ao acessar a pasta `2021`, você vai observar a presença de um arquivo, chamado [`jemaf.json`](_data/2021/jemaf.json).
+Ao acessar a pasta `2023`, você vai observar a presença de um arquivo, chamado [`denerbrandao70.json`](_data/2023/denerbrandao70.json).
 Ao abrir esse arquivo, você vai observar que ele possui a seguinte estrutura: 
 
 ```
 {
-    "introduction": "Olá, jovens!",
-    "emoji": "passenger_ship"
+    "introduction": "Professor e Pesquisador",
+    "emoji": "battery"
 }
 ```
 
 Essas são justamente as informações que serão exibidas no mural!
-**Você irá adicionar suas informações em um arquivo próprio, dentro da pasta `2021`!**
+**Você irá adicionar suas informações em um arquivo próprio, dentro da pasta `2023`!**
 
 ## Criando o arquivo de seu usuário
 
-Acesse a pasta [`2021`](_data/2021) e crie um arquivo chamado `USERNAME.json`, **onde `USERNAME` representa seu usuário do GitHub**.
+Acesse a pasta [`2023`](_data/2023) e crie um arquivo chamado `USERNAME.json`, **onde `USERNAME` representa seu usuário do GitHub**.
 
 Uma vez criado o arquivo, crie e preencha os campos `introduction` e `emoji`, exatamente como no exemplo acima.
 Você pode consultar a lista de emojis disponíveis neste [link](https://emoji-css.afeld.me/).
